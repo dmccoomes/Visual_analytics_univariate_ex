@@ -1,0 +1,2 @@
+# Visual_analytics_univariate_ex
+Visual analytics univariate exercises
